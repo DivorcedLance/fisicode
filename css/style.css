@@ -1,0 +1,41 @@
+
+.btn-primary {
+    background-color: #1c3b84;;
+    border-color: #1c3b84;;
+    color: #fff;
+};
+
+
+.fisi-y {
+    border-color: #f0ad4e;
+    color: #f0ad4e;
+}
+
+/* #main_header {
+    position: fixed;
+    top: 0;
+    z-index: 999;
+} */
+
+body::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #8b8b8b;
+}
+
+body::-webkit-scrollbar
+{
+	width: 6px;
+	background-color: #8b8b8b;
+}
+
+body::-webkit-scrollbar-thumb
+{
+	background-color: #000000;
+}
+
+/* .fa-tiktok {
+    color: #111111;
+    
+    filter: drop-shadow(2px 0px 0px #FD3E3E) drop-shadow(-2px -2px 0px #4DE8F4);
+  } */
